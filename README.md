@@ -26,11 +26,7 @@ npm install
 npm start
 
 ## Usage 
-
-Website should look as the following screenshots show.
-
-
-Scroll up and down the page and click internal links in the nav bar.
+Click nav links to scroll through the page.
 
 ## Credits
 
